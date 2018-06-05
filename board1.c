@@ -3,8 +3,8 @@
 
 
 /* Board Size */
-#define tate 5
-#define yoko 7
+#define tate 11
+#define yoko 23
 
 
 
