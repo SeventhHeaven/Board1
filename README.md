@@ -45,9 +45,9 @@ cc -o board1 board1.c
 終了はctrl+Cで。  
 
 【ボードの大きさ】  
-/* Board Size */  
-#define tate 11  
-#define yoko 23  
+>/* Board Size */  
+>#define tate 11  
+>#define yoko 23  
 の部分のtate, yokoを  
 変更してコンパイルすれば、  
 ボードの大きさを変更できます。  
