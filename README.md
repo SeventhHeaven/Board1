@@ -1,6 +1,7 @@
 # Board1
 Getting Started Programming Series 1
   
+  
 「プログラム事始め」シリーズ　その1です。  
 C言語です。
 
